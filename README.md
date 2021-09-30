@@ -11,6 +11,7 @@
 ## To be solved ....
 
 - [ ] [Who won the marble game?](https://github.com/lakshikaparihar/Python-Scripts/blob/74c3556080683dd19552f07baccfa64632ef6063/Marble_game.py)
+- [ ] [Maximum simultaneous weekdays](https://github.com/lakshikaparihar/Python-Scripts/blob/9ed6438d0d595b50ab7c00942b1c1a7cedfb3a12/maximum_weekdays.py)
 
 
 
