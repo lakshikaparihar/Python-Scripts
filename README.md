@@ -73,7 +73,3 @@ $ git merge upstream/main
  ```
  $ git push -f origin main
  ```
-
-# License 
-
-MIT
