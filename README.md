@@ -12,20 +12,26 @@
 - [ ] [Who won the marble game?](https://github.com/lakshikaparihar/Python-Scripts/blob/74c3556080683dd19552f07baccfa64632ef6063/Marble_game.py)
 
 
+
+<br>
+<br>
+
 # How to Contribute 
 
  1. Fork this Repository
  
  2. Clone the Repository in your local machine
 ```
-$ git clone "https://www.github.com/{Username}/HackerRank-Solutions"
+$ git clone "https://github.com/lakshikaparihar/Python-Scripts.git"
 ```
 
- 3. Choose Any Domain in the HackerRank and solve it (Please ensure your solution should pass all the Test cases)
+ 3. Solve any To be Solved question (Program description is written inside the file itself )
  
- 4. Paste the Code into a new file and name it in the following format : Problem_Name.[extension of the language] (Make sure name of your file matches with the name mentioned in the url)
+ 4. Paste the Code into the same file as problem description
 
- 5. Place your source code file in the respective folder(if there is no folder of your domain then go ahead and create it).If you have added a folder update the readme.md file
+ 5. If you want to add any new Problem desciption
+       * Create a new .py file with the title name and add the Problem description in the file 
+       * Add the title in the Readme.md and link it to the file
 
  6. add and commit the changes in your Repository
  ```
@@ -41,12 +47,13 @@ $ git clone "https://www.github.com/{Username}/HackerRank-Solutions"
  ```
 
  8. Generate a pull request (Make sure to add problem name in the title and url in the description)
+ 
 
 # Synchronize forked repository with upstream repository
 
  1. Add this repository as an upstream repository
  ```
- $ git remote add upstream https://github.com/lakshika1064/HackerRank-Solutions
+ $ git remote add upstream https://github.com/lakshikaparihar/Python-Scripts.git
  ```
  2. Fetch all the changes from the repository
  ```
@@ -55,16 +62,16 @@ $ git clone "https://www.github.com/{Username}/HackerRank-Solutions"
  3. Make sure you are on your working branch
  
  ```
- $ git checkout master
+ $ git checkout main
  ```
  4.  Merge the changes from upstream into your local machine
  
 ```
-$ git merge upstream/master
+$ git merge upstream/main
 ```
  5. Now your local branch is synced with the upstream branch . Push the changes in your forked repository
  ```
- $ git push -f origin master
+ $ git push -f origin main
  ```
 
 # License 
