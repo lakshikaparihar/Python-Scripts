@@ -7,6 +7,7 @@
 - [x] [chuck noris unary message](https://github.com/lakshikaparihar/Python-Scripts/blob/d2cb4a5dfccd69df5f5aeda9d6391c0197173f8b/chuck_noris_unary_message.py) 
 - [x] [Separating Lowecase and Uppercase](https://github.com/lakshikaparihar/Python-Scripts/blob/db3f9eea03ea27bda4079bf3a25c5d3b7a1c0dff/separate_lower_uppercase.py)
 - [x] [Concatenate two strings](https://github.com/lakshikaparihar/Python-Scripts/blob/0e1c771e65e887de624ec25db4df38868a839cc8/concatenate_two_strings.py) 
+- [x] [Find if a number is coprime or not](https://github.com/lakshikaparihar/Python-Scripts/blob/891d9cf6e104119eaa70d51937886fe92ec7b5d0/coprime.py)
 
 ## To be solved ....
 
