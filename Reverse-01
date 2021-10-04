@@ -26,3 +26,6 @@ Expected output :511
 
 ```
 
+n = int(input())
+
+print(int(pow(2,n)-1))
