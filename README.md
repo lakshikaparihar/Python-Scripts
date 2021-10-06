@@ -9,6 +9,7 @@
 - [x] [Concatenate two strings](https://github.com/lakshikaparihar/Python-Scripts/blob/0e1c771e65e887de624ec25db4df38868a839cc8/concatenate_two_strings.py) 
 - [x] [Find if a number is coprime or not](https://github.com/lakshikaparihar/Python-Scripts/blob/891d9cf6e104119eaa70d51937886fe92ec7b5d0/coprime.py)
 - [x] [Scrabble](https://github.com/lakshikaparihar/Python-Scripts/blob/bd1a97064e60d00eb9f30384b1b324dd102b993e/Scrabble.py) 
+- [x] [Fabonacci Series](https://github.com/lakshikaparihar/Python-Scripts/blob/cae8dd6dc91b950639f24f099ba04f6fa3616d88/fabonacci_series.py)
 
 ## To be solved ....
 
