@@ -19,6 +19,7 @@
 
 ## Reverse Mode ...
 - [x] [Reverse-01](https://github.com/lakshikaparihar/Python-Scripts/blob/e3ec08cef84d059ff9b61bf925ef20abbc69fc59/Reverse-01)
+- [x] [Reverse-02]() 
 
 <br>
 <br>
