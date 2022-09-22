@@ -1,4 +1,4 @@
-```
+'''
 Replay: who won the marble game?
 A group of N players finished the marble game. Find out which player was the winner.
 You are given the sequence of dice rolled during the game.
@@ -15,5 +15,5 @@ IF dice value is 1,2,3,4, or 5: the player transfers 1 marble from the player's 
 The player wins, if the player's bag contains no marbles after the turn.
 Marbles in the parking holes belong to no player.
 
-```
+'''
 

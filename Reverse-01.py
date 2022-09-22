@@ -1,4 +1,4 @@
-```
+'''
 Test 1
 Input : 4
 Expected output : 15
@@ -24,7 +24,7 @@ Input :9
 Expected output :511
 
 
-```
+'''
 
 n = int(input())
 

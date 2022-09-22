@@ -1,4 +1,4 @@
-```
+'''
 Binary with 0 and 1 is good, but binary with only 0, or almost, is even better! Originally, this is a concept designed by Chuck Norris to send so called unary messages.
 
 Write a program that takes an incoming message as input and displays as output the message encoded using Chuck Norris’ method.
@@ -12,7 +12,7 @@ Two consecutive blocks are used to produce a series of same value bits (only 1 o
 - First block: it is always 0 or 00. If it is 0, then the series contains 1, if not, it contains 0
 - Second block: the number of 0 in this block is the number of bits in the series
   
-```
+'''
 
 import sys
 import math
